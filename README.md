@@ -1,13 +1,15 @@
 # getopty
 
 ## What is this?
-This is a command line parser for Windows.
+This is a command line parser for C/C++ on Windows.  
 This library is like "getopt".
 
 ## Features
-- A single header only library
-- C99 and C++ support
+- Single header only library
 - Cross platform
+
+## System Requirements
+C99 or later
 
 ## License
 The MIT license
